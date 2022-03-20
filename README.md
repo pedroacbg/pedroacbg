@@ -1,7 +1,18 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/pedro-augusto-54a5bb216/"><i>Pedro Augusto</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web FullStack 
+  <h1 align="center">Hi! My name's <a href="https://www.linkedin.com/in/pedro-augusto-54a5bb216/"><i>Pedro Augusto</i></a> 😃️</h1>
 </div>
+
+## I'm a Full Stack Web Developer student and always improving my skills
+
+### Stack:
+* Java Spring Boot
+* ReactJS
+* HTML & CSS
+* Typescript
+* PostgresSQL
+
+#### Computer Engineering student at UFOP
+
 
 <div align="center">
   <a href="https://github.com/pedroacbg" >
