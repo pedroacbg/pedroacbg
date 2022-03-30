@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi! My name's <a href="https://www.linkedin.com/in/pedro-augusto-54a5bb216/"><i>Pedro Augusto</i></a> 😃️</h1>
+  <h1 align="center">Hi! My name's <a href="https://www.linkedin.com/in/pedroacbg/"><i>Pedro Augusto</i></a> 😃️</h1>
 </div>
 
 ## I'm a Full Stack Web Developer student and always studying more to improve my skills
