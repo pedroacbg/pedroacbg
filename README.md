@@ -4,35 +4,38 @@
 
 ## I'm a Full Stack Web Developer student and always studying more to improve my skills
 
-### Stack:
-* Java Spring Boot
-* ReactJS
-* HTML & CSS
-* Typescript
-* PostgresSQL
-
-#### Computer Engineering student at UFOP
-
-
 <div align="center">
-  <a href="https://github.com/pedroacbg" >
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacbg&langs_count=4&theme=tokyonight&hide_border=false&&layout=compact"/>
-  </a>
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
 
 <div align="center">
   <a href="https://www.instagram.com/pxdro.znt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedroacbg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:pedrooaugustoo130@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+## 🛠  Tech Stack:
+### 👩‍💻 &nbsp;Back-End
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+
+### 🎨 &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+
+### ⚡ &nbsp;Database 
+![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+## 📊 &nbsp;Stats
+
+<div align="center">
+  <a href="https://github.com/pedroacbg" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroacbg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacbg&langs_count=6&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 
 
