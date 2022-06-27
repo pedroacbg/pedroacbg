@@ -31,14 +31,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
-## 📊 &nbsp;Stats
-
-<div align="center">
-  <a href="https://github.com/pedroacbg" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroacbg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacbg&langs_count=6&theme=tokyonight&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 
 
