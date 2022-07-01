@@ -2,7 +2,9 @@
   <h1 align="center">Hi! My name's <a href="https://www.linkedin.com/in/pedroacbg/"><i>Pedro Augusto</i></a> 😃️</h1>
 </div>
 
-## I'm a Software Developer student and always studying more to improve my skills
+<div>
+  <h2 align="center"> I'm a Software Developer student and always studying more to improve my skills</h2>
+</div>
 
 <div align="center">
    <img height="350em" width="700" src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif"/>
