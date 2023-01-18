@@ -7,7 +7,16 @@
 </div>
 
 <div align="center">
-   <img height="350em" width="700" src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif"/>
+  <details><summary><samp>stats</samp></summary><br>
+    <table>
+      <tr>
+        <th><img src="https://github-readme-stats.vercel.app/api?username=pedroacbg&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000"/><br></th>
+        <th><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacbg&layout=compact&hide=jupyter%20Notebook,Cython,html&langs_count=6&show_icons=true&bg_color=00000000&border_color=00000000"/></th>
+      </tr>
+    </table>
+
+  </details>
+
 </div>
 
 <div align="center">
