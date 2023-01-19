@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi! My name's <a href="https://www.linkedin.com/in/pedroacbg/"><i>Pedro Augusto</i></a> 😃️</h1>
+  <h1 align="center">Hi! My name's <a href="https://www.linkedin.com/in/pedroacbg/"><i>Pedro Augusto</i></a> 🫡</h1>
 </div>
 
 <div>
@@ -10,8 +10,8 @@
   <details><summary><samp>stats</samp></summary><br>
     <table>
       <tr>
-        <th><img src="https://github-readme-stats.vercel.app/api?username=pedroacbg&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000"/><br></th>
-        <th><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacbg&layout=compact&hide=jupyter%20Notebook,Cython,html&langs_count=6&show_icons=true&bg_color=00000000&border_color=00000000"/></th>
+        <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedroacbg&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000"/><br></th>
+        <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=pedroacbg&layout=compact&hide=jupyter%20Notebook,Cython,html&langs_count=6&show_icons=true&bg_color=00000000&border_color=00000000"/></th>
       </tr>
     </table>
 
@@ -49,5 +49,7 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
+</p>
 
