@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <details><summary><samp>stats</samp></summary><br>
     <table>
       <tr>
         <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedroacbg&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000"/><br></th>
@@ -15,7 +14,6 @@
       </tr>
     </table>
 
-  </details>
 
 </div>
 
