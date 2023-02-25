@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2 align="center"> I'm a Software Developer student and always studying more to improve my skills</h2>
+  <h2 align="center"> I'm a Web Developer student always studying more to improve my skills</h2>
 </div>
 
 <div align="center">
