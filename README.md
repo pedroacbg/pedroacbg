@@ -10,7 +10,7 @@
     <table>
       <tr>
         <th><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroacbg&show_icons=true&theme=dark&include_all_commits=true&show_icons=true&layout=compact&bg_color=00000000&hide_border=true"/><br></th>
-        <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacbg&layout=compact&langs_count=6&show_icons=true&bg_color=00000000&hide_border=true"/></th>
+        <th><img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=pedroacbg&layout=compact&langs_count=6&show_icons=true&bg_color=00000000&hide_border=true"/></th>
       </tr>
     </table>
 
