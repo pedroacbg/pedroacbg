@@ -7,14 +7,8 @@
 </div>
 
 <div align="center">
-    <table>
-      <tr>
-        <th><img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=pedroacbg&show_icons=true&theme=dark&include_all_commits=true&show_icons=true&layout=compact&bg_color=00000000&hide_border=true"/><br></th>
-        <th><img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=pedroacbg&layout=compact&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true"/></th>
-      </tr>
-    </table>
-
-
+    <img src="https://github-readme-stats.vercel.app/api?username=pedroacbg&theme=dark&hide_border=false&bg_color=00000000&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacbg&theme=dark&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="355px"/>
 </div>
 
 <div align="center">
