@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats-fix-omega.vercel.app/api?username=pedroacbg&theme=dark&hide_border=false&bg_color=00000000&include_all_commits=true&count_private=true" height="165px"/>
-    <img src="https://github-readme-stats-fix-omega.vercel.app/api/top-langs/?username=pedroacbg&theme=dark&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats-kwwn0wk6f-pedroacbg.vercel.app/api?username=pedroacbg&theme=dark&hide_border=false&bg_color=00000000&include_all_commits=true&count_private=true" height="165px"/>
+    <img src="https://github-readme-stats-kwwn0wk6f-pedroacbg.vercel.app/api/top-langs/?username=pedroacbg&theme=dark&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <div align="center">
