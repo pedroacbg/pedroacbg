@@ -8,8 +8,9 @@
 
 ## 🛠  Tecnologias que utilizo:
 
-<br>
-<p>
+<p>🧩Linguagens de Programação: Java, JavaScript, TypeScript, HTML, CSS, PHP<br>📖Frameworks e bibliotecas: Spring, React<br>💾Banco de dados: MySQL, PostgreSQL<br>🔩Ferramentas: Postman, Docker, HeidiSQL</p>
+
+<!--<p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> <span>Java</span> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/> <span>Spring</span> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> <span>HTML</span> &nbsp;&nbsp;
@@ -19,7 +20,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sass" width="35" height="35"/> <span>PHP</span> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/> <span>MySQL</span> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/> <span>PostgreSQL</span> &nbsp;&nbsp;
-</p><br>
+</p>-->
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pedroacbg&theme=dark&hide_border=false&bg_color=00000000&include_all_commits=true&count_private=true" height="165px"/>
