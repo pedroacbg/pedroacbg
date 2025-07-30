@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center">Hi! My name's <a href="https://www.linkedin.com/in/pedroacbg/"><i>Pedro Anjos</i></a> 🫡</h1>
+  <h1 align="center">Olá! Me chamo <a href="https://www.linkedin.com/in/pedroacbg/"><i>Pedro Anjos</i></a> 🫡</h1>
 </div>
 
 <div>
-  <h2 align="center"> I'm a Developer always studying more to improve my skills</h2>
+  <h2 align="center"> Desenvolvedor Back End apaixonado por tecnologia e desenvolvimento de sistemas!</h2>
 </div>
 
 <div align="center">
