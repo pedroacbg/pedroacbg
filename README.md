@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá! Me chamo <a href="https://www.linkedin.com/in/pedroacbg/"><i>Pedro Anjos</i></a> 🫡</h1>
+  <h1 align="center">Olá! Eu me chamo <a href="https://www.linkedin.com/in/pedroacbg/"><i>Pedro Anjos</i></a> 🫡</h1>
 </div>
 
 <div>
