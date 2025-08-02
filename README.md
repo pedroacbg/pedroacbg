@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p> Desenvolvedor Back End apaixonado por tecnologia e desenvolvimento de sistemas, graduando em <strong>Sistemas de Informação</strong> com 2 anos de experiência atuando como desenvolvedor de sistemas web.</p><p>Tenho habilidades versáteis e paixão por resolver problemas com tecnologia, especializado em Back End utilizando a linguagem <strong>Java</strong> com o framework <strong>Spring</strong>, conhecimento em testes unitários utilizando <strong>JUnit</strong> e <strong>Mockito</strong> em bancos de dados SQL como <strong>MySQL</strong> e <strong>PostgreSQL</strong>, código limpo e boas práticas.</p>
+  <p> Desenvolvedor Back End apaixonado por tecnologia e desenvolvimento de sistemas, graduando em <strong>Sistemas de Informação</strong> com 2 anos de experiência atuando como desenvolvedor de sistemas web.</p><p>Tenho habilidades versáteis e paixão por resolver problemas com tecnologia, especializado em Back End utilizando a linguagem <strong>Java</strong> com o framework <strong>Spring</strong>, conhecimento em testes unitários e de integração utilizando <strong>JUnit</strong> e <strong>REST Assured</strong> em bancos de dados SQL como <strong>MySQL</strong> e <strong>PostgreSQL</strong>, código limpo e boas práticas.</p>
 </div>
 
 ## 🛠  Tecnologias que utilizo:
