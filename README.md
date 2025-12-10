@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p> Desenvolvedor Back End apaixonado por tecnologia e desenvolvimento de sistemas, graduando em <strong>Sistemas de Informação</strong> com 2 anos de experiência atuando como desenvolvedor de sistemas web.</p><p>Tenho habilidades versáteis e paixão por resolver problemas com tecnologia, especializado em Back End utilizando a linguagem <strong>Java</strong> com o framework <strong>Spring</strong>, conhecimento em testes unitários e de integração utilizando <strong>JUnit</strong> e <strong>REST Assured</strong>, e também em bancos de dados SQL como <strong>MySQL</strong> e <strong>PostgreSQL</strong>, código limpo e boas práticas.</p>
+  <p> Desenvolvedor Back End apaixonado por tecnologia e desenvolvimento de sistemas, graduado em <strong>Sistemas de Informação</strong> pelo Centro Universitário Newton Paiva com 2 anos de experiência atuando como desenvolvedor de sistemas web.</p><p>Tenho habilidades versáteis e paixão por resolver problemas com tecnologia, especializado em Back End utilizando a linguagem <strong>Java</strong> com o framework <strong>Spring</strong>, conhecimento em testes unitários e de integração utilizando <strong>JUnit</strong> e <strong>REST Assured</strong>, e também em bancos de dados SQL como <strong>MySQL</strong> e <strong>PostgreSQL</strong>, código limpo e boas práticas.</p>
 </div>
 
 ## 🛠  Tecnologias que utilizo:
@@ -22,10 +22,10 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/> <span>PostgreSQL</span> &nbsp;&nbsp;
 </p>-->
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pedroacbg&theme=dark&hide_border=false&bg_color=00000000&include_all_commits=true&count_private=true" height="165px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacbg&theme=dark&bg_color=00000000&hide_border=false&hide=scss&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedroacbg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
