@@ -8,7 +8,7 @@
 
 ## 🛠  Tecnologias que utilizo:
 
-<p>🧩Linguagens de Programação: Java, JavaScript, TypeScript, PHP<br>📖Frameworks: Spring Boot, Spring Framework, Spring Data JPA, Spring Security, Rest Assured, Swagger, React, Angular<br>💾Banco de dados: MySQL, PostgreSQL<br>🔩Ferramentas: Postman, Docker, HeidiSQL</p>
+<p>🧩Linguagens de Programação: Java, JavaScript, TypeScript, PHP<br>📖Frameworks: Spring Boot, Spring Framework, Spring Data JPA, Spring Security, Rest Assured, Swagger, React, Angular<br>💾Banco de dados: MySQL, PostgreSQL, SQLServer, MongoDB<br>🔩Ferramentas: Postman, Docker, HeidiSQL</p>
 
 <!--<p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> <span>Java</span> &nbsp;&nbsp;
